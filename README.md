@@ -19,8 +19,8 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=transparent&hide_progress=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rimant666&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimant666&layout=compact&theme=transparent&hide_progress=false" />
 </p>
 
 ---
