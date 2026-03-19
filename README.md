@@ -10,8 +10,7 @@
 
 ---
 
-### 🛠️ Currently Engineering
-* **Current Project:** [Project Name] — *A brief one-liner about what it does.*
+### Currently Engineering
 * **Learning:** Currently diving deep into Next.js 16.
 * **Open for Collaboration:** I'm looking to help with Open Source UI components.
 
